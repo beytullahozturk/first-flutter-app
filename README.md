@@ -3,7 +3,7 @@
 This is a greeting card application
 
 ## Screenshot
-<img src="https://user-images.githubusercontent.com/25108106/112143305-c1800c00-8be8-11eb-84a5-e5aa8dcbfbb3.png" width="50%" height="50%">
+<img src="https://user-images.githubusercontent.com/25108106/112143305-c1800c00-8be8-11eb-84a5-e5aa8dcbfbb3.png" width="30%" height="30%">(https://flutter.dev/docs/cookbook)
 
 ## Getting Started
 
