@@ -2,6 +2,9 @@
 
 This is a greeting card application
 
+## Screenshot
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
