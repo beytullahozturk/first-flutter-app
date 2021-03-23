@@ -3,8 +3,7 @@
 This is a greeting card application
 
 ## Screenshot
-![Uploading Screenshot_20210323-115558.png…]()
-
+![Screenshot_20210323-115558](https://user-images.githubusercontent.com/25108106/112143305-c1800c00-8be8-11eb-84a5-e5aa8dcbfbb3.png)
 
 ## Getting Started
 
